@@ -10,7 +10,7 @@ Aqui você encontra os *notebooks* dos meus exercícios e explorações na área
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-**Analisando os crimes do Rio de Janeiro​
+- **Analisando os crimes do Rio de Janeiro**
 ---
 
 ### Sobre mim:
