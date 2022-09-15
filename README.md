@@ -1,26 +1,26 @@
 # estudos_data_science
-  [![author](https://img.shields.io/badge/author-drjoaoalbertoribeiro-red.svg)](https://www.linkedin.com/in/termodiagnose) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/drjoaoalbertoribeiro/data_science/issues)
+  [![author](https://img.shields.io/badge/author-drjoaoalbertoribeiro-red.svg)](https://www.linkedin.com/in/termodiagnose) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/drjoaoalbertoribeiro/data_science/issues)
 
 <p align="center">
-  <img src="/img/pyEXERC.jpg" >
+  <img src="/img/pyrEXERC.jpg" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus exercícios e explorações na área de Data Science. São estudos simples, mas mantém a acurácia e a mente alerta!
+Here you can find the *notebooks* of my exercises and explorations in Data Science. They are simple studies, but keep the accuracy and the mind alert!
 
-## Projetos:
-Lista de projetos em Jupyter Notebook:
+## Projects:
+List of projects:
 
 - **Analisando os crimes do Rio de Janeiro**
 ---
 
-### Sobre mim:
+### About me:
 
-Sou Médico Clínico, especializado em Medicina da Dor e Cuidados Paliativos e Termografia por Infravermelho e Termologia Médica. Atualmente sou Diretor e Responsável Técnico da TERMOdiagnose, Medicina da Dor e Termologia Médica em Itu/SP. Autor do *blog* [TERMOblog](https://termodiagnose.com.br/index.php/blog).Entusiasta na aplicação das novas tecnologias na formação do conhecimento médico.
+I am a physician working in the area of Pain Medicine, Palliative Care and Thermology / Medical Infrared Thermography. Recently dedicating myself to the acquisition of knowledge in the area of Data Science and Analytics and the development of disruptive technologies for the health area.
 
-* Graduação em Medicina pela Universidade Federal do Triângulo Mineiro.
-* Especialização em Medicina da Dor e Cuidados Paliativos pelo pelo Hospital Israelita Albert Einstein
-* Membro da Sociedade Brasileira para o Estudo da Dor
-* Especialização em Termografia por Infravermelho e Termologia Médica pela Universidade de São Paulo.
-* Membro da Associação brasileira de Termologia Médica
-* Curso de Aprimoramento em Python - Michigan University.
-* Curso de Aprimoramento em Data Science - SIGMOIDAL
+* Graduation in Medicine by the Federal University of Triângulo Mineiro.
+* Specialization in Pain Medicine and Palliative Care by the Hospital Israelita Albert Einstein
+* Member of the Brazilian Society for the Study of Pain
+* Specialization in Infrared Thermography and Medical Thermology by the University of São Paulo
+* Member of the Brazilian Association of Medical Thermology
+* Member of the American Academy of Thermology (AAT)
+* MBA in Data Science and Analytics by the University of São Paulo / Esalq
